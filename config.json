@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql+pymysql://root:@localhost/blog",
+    "prod_uri": "mysql+pymysql://root:@localhost/blog",
+    "fb_url": "https://facebook.com/spykarsumit",
+    "git_url": "https://github.com/sumitskr",
+    "insta_url": "https://instagram.com/sumitsarkarrrr",
+    "site_title" : "Condemn",
+    "site_header" : "Sumit Sarkar",
+    "tag_line" : "A Blog by Sumit Sarkar",
+    "gmail_username" : "sumitsarkar.op@gmail.com",
+    "gmail_password": "**********",
+    "about_self" : "Hi,I'am Sumit Sarkar studying B.Tech(CSE) in MAKAUT(WB).I'm here to learn WEB-development using flask documentation of Python .I created this website for my own web project. : )",
+    "post_number" : 2,
+    "admin_usr" : "sumitsarkar",
+    "admin_pass" : "032154268",
+    "uploader location" : "C:\\Users\\sumit\\web_tut\\static"
+  }
+}
