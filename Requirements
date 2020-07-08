@@ -1,0 +1,8 @@
+pip install flask
+pip install SQLAlchemy
+pip install requests
+pip install pymysql
+I used PHPmyadmin for better graphical works.
+pip install flask_mail
+pip install wrekzeug
+
