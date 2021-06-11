@@ -209,12 +209,6 @@ def delete(sno):
         db.session.commit()
 
         return redirect('/dashboard')
-
-
-
-
-
-
 app.run(debug=True)
 
 
